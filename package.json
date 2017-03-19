@@ -1,0 +1,22 @@
+{
+  "name": "text-adventure",
+  "version": "1.0.0",
+  "description": "an example text adventure game",
+  "main": "src/app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethan-haynes/text-adventure.git"
+  },
+  "author": "Ethan Haynes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethan-haynes/text-adventure/issues"
+  },
+  "homepage": "https://github.com/ethan-haynes/text-adventure#readme"
+}
